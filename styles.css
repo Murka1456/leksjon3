@@ -44,7 +44,7 @@ padding:20px
 
 .heroText{
   height: 50%;
-  width:50% ;
+  width:40% ;
 
 }
 .CTAbutton{
@@ -59,6 +59,7 @@ cursor: pointer;
 margin-top: 100px;
 }
   .logo {
-width:50%;
-height:50%;
+width:10%;
+height:10%;
+display: flex;
 }
